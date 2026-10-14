@@ -4,7 +4,7 @@
 ## 引用要求 🔖
 若您在本研究或任何公开发表的成果中使用了此函数，必须引用以下文献：
 
-Zhe Gao and Zhihao Su. "The Plasma Dispersion Function and its Numerical Calculation," [待发表：期刊/会议名称], 卷(期): 页码, 年份. DOI: [待填写]
+Zhe GAO, Zhihao SU. The plasma dispersion function and its numerical calculation[J]. Plasma Science and Technology, 2026, 28(6): 063001. DOI: 10.1088/2058-6272/ae52be
 
 
 ## 函数说明
